@@ -28,7 +28,7 @@ Categoria [1️⃣-8️⃣]
 Faixa de preço [1️⃣-4️⃣]  
 Quantidade em estoque:  
 Está com desconto? [0️⃣-1️⃣]
-## Rodando localmente 👨‍💻
+## | Rodando localmente 👨‍💻
 
 Clone o projeto
 
@@ -55,7 +55,7 @@ Inicie o programa
 ```
 
 
-## Autores ✍
+## | Autores ✍
 
 - [@JpPrates21](https://github.com/JpPrates21)
 - [@felipecoutofontes](https://github.com/felipecoutofontes)
