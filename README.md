@@ -42,7 +42,7 @@ Entre no diretório do projeto
   cd "diretorio_onde_o_projeto_se_encontra"
 ```
 
-Dê um make no project
+Dê um make no projeto
 
 ```bash
   mingw32-make.exe
